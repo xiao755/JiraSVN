@@ -1,10 +1,18 @@
-- 👋 Hi, I’m @xiao755
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+Welcome,
 
-<!---
-xiao755/xiao755 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+#### Forked from:
+https://github.com/dscowan/JiraSVN
+
+
+Converted from using SOAP to communicate with JIRA, to using REST.
+
+
+
+#### Full installer downloads available at:
+
+https://github.com/xiao755/JiraSVN/releases
+
+Download the JiraTortoiseSvnPlugin-x64.msi file.
+
+Install the JiraTortoiseSvnPlugin:
+ Double click JiraTortoiseSvnPlugin-x64.msi -> Next -> "I accept the terms..." -> Next -> Typical -> Install -> Finish
